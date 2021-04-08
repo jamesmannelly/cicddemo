@@ -71,13 +71,13 @@
 
 				<div class="span12">
 					<br>
-					<h1 class="text-center" style = "font-family:new courier;color:black;font-size:34px;">Regir For TODO List</h1><hr><br>
+					<h1 class="text-center" style = "font-family:new courier;color:black;font-size:34px;">Register For TODO List</h1><hr><br>
 				</div>
 
 			</div>
 
 			<form class="form-signin" method = "post" action = "register">
-				<h2 class="form-signin-heading">Regir Now</h2>
+				<h2 class="form-signin-heading">Register Now</h2>
 				<input type="text" class="input-block-level" placeholder="User name" name = "name">
 				<input type="password" class="input-block-level" placeholder="Password" name = "password">
 				<input type="password" class="input-block-level" placeholder="Confirm Password" name = "password2">
