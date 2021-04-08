@@ -1,4 +1,4 @@
-name: rohan-cdng
+name: cdng
 replicas: 1
 image: <+artifact.image>
 
