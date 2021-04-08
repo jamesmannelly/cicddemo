@@ -71,7 +71,7 @@
 
 				<div class="span12">
 					<br>
-					<h1 class="text-center" style = "font-family:new courier;color:black;font-size:34px;">Regir For TODO List</h1><hr><br>
+					<h1 class="text-center" style = "font-family:new courier;color:black;font-size:34px;">Register For TODO List</h1><hr><br>
 				</div>
 
 			</div>
