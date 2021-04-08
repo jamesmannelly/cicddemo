@@ -43,7 +43,7 @@ spec:
             name: {{.Values.name}}-config
         resources:
           limits:
-            memory: 512
+            memory: 512Mi
             cpu: 512m
           requests:
             memory: 512Mi
