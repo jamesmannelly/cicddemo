@@ -44,10 +44,10 @@ spec:
         resources:
           limits:
             memory: 512Mi
-            cpu: 512m
+            cpu: 256m
           requests:
             memory: 512Mi
-            cpu: 512m
+            cpu: 256m
         ports:
         - name: todolist
           containerPort: 8080
