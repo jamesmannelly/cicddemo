@@ -77,7 +77,7 @@
 			</div>
 
 			<form class="form-signin" method = "post" action = "register">
-				<h2 class="form-signin-heading">Re Now</h2>
+				<h2 class="form-signin-heading">Register Now</h2>
 				<input type="text" class="input-block-level" placeholder="User name" name = "name">
 				<input type="password" class="input-block-level" placeholder="Password" name = "password">
 				<input type="password" class="input-block-level" placeholder="Confirm Password" name = "password2">
